@@ -30,3 +30,7 @@ The dataset was stored in a MongoDB collection.
 The wildfire dataset was found on Kaggle at: https://www.kaggle.com/rtatman/188-million-us-wildfires
 
 The dataset has 1.88 million wildfires in the United States from 1992 to 2015 and is available for public use.
+
+## Contributors
+
+Created with equal contributions from Sidharth Bambah and Vedant Dave.
